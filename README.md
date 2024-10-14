@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @musta20
-- 👀 I’m interested in nextjs react bootstrap node flask
+- 👀 I’m interested in laravel node , react , tailwind  
 - 🌱 I’m currently learning react-native
 - 📫 How to reach me musta.c137@gmail.com
 
